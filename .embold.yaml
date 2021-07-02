@@ -3,7 +3,7 @@ version: 1
 sources:
     - 'html'
   #Files or Directories to be Excluded are mentioned in exclusions
-  exclusions:
+  exclusions
     - 'test'
     - 'generated'
     - 'mock'
